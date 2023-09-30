@@ -1,11 +1,11 @@
-## Project PLS
+## Project PLS  
 ### Developed & Tested:  
 
 Linux(Ubuntu20.04, Archi6.4.7) / Mac(Ventura 13.4) / Windows 10  
 <br/>  
 ### Used Frameworks:
 
-Frontend: React.js  
+Frontend: Bun + Next.js + Typescript  
 Backend: Rust Rocket + Apache Kafka @ AWS Instance
 
 ---
