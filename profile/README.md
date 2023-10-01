@@ -16,7 +16,6 @@ Backend: Rust Rocket + Apache Kafka @ AWS Instance
 | --- | --- | --- |
 | 정호일(<b>PM</b>, Backend Engineer) | 한양대학교 ERICA 컴퓨터학부 소프트웨어전공 | me@haoyi.dev |
 | 정성윤(Backend Engineer) | 충남대학교 인공지능학과 | jungbug04@naver.com |
-| 고제성(Frontend Developer) | 한양대학교 ERICA ICT융합학부 미디어테크놀로지전공 | js951171@naver.com |
 
 <!--
 
